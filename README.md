@@ -5,6 +5,10 @@
 💬 How to reach me: CazedAndDonfusedbeast#9422
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/606536082783469587)](https://discord.com/users/606536082783469587)
+
+spotify stuff
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=48demyqytcv8p4eekgjosqw0z&cover_image=true&theme=default&show_offline=true)](https://spotify-github-profile.vercel.app/api/view?uid=48demyqytcv8p4eekgjosqw0z&redirect=true)
 <!--
 **666TranZit666/666TranZit666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
