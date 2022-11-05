@@ -4,7 +4,7 @@
 
 💬 How to reach me: CazedAndDonfusedbeast#9422
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/606536082783469587)](https://discord.com/users/606536082783469587)
+[![Discord Presence](borderRadius=20(https://lanyard.cnrad.dev/api/606536082783469587)](https://discord.com/users/606536082783469587)
 
 spotify stuff
 
