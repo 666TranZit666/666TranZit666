@@ -9,6 +9,12 @@
 spotify stuff
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=48demyqytcv8p4eekgjosqw0z&cover_image=true&theme=default&show_offline=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=48demyqytcv8p4eekgjosqw0z&redirect=true)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/666TranZit666/count.svg" />
+</p>
+
 <!--
 **666TranZit666/666TranZit666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
