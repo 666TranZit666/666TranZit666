@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666TranZit666)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=666TranZit666&hide=contribs,prs)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=666TranZit666
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666TranZit666)]
 💬 How to reach me: CazedAndDonfusedbeast#9422
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/606536082783469587?theme=dark&bg=ff9ba1)](https://discord.com/users/606536082783469587)
